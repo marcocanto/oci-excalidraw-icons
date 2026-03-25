@@ -1,0 +1,1375 @@
+[
+  {
+    "index": 1,
+    "canonical_name": "Bare Metal Compute",
+    "aliases": [],
+    "raw_name": "Bare Metal Compute",
+    "element_count": 12,
+    "id": "XtWDWJmGI65k6wyMYM76"
+  },
+  {
+    "index": 2,
+    "canonical_name": "Instance Pools",
+    "aliases": [],
+    "raw_name": "Instance Pools",
+    "element_count": 13,
+    "id": "bn4pNHW6a0weBhN3eoLj"
+  },
+  {
+    "index": 3,
+    "canonical_name": "Functions",
+    "aliases": [],
+    "raw_name": "Functions",
+    "element_count": 12,
+    "id": "kncLkiY5sDhthFFLQAqv"
+  },
+  {
+    "index": 4,
+    "canonical_name": "Compute VM",
+    "aliases": [
+      "Virtual Machine VM",
+      "VM",
+      "Virtual Machine"
+    ],
+    "raw_name": "Compute VM | Virtual Machine VM | VM | Virtual Machine",
+    "element_count": 18,
+    "id": "FxGgLHqwaTafBdciRBfd"
+  },
+  {
+    "index": 5,
+    "canonical_name": "Autoscaling",
+    "aliases": [],
+    "raw_name": "Autoscaling",
+    "element_count": 44,
+    "id": "lLiacLOgStddqyHJ0rLg"
+  },
+  {
+    "index": 6,
+    "canonical_name": "Flex VM",
+    "aliases": [
+      "Flex Virtual Machine Flex VM",
+      "VM",
+      "Virtual Machine"
+    ],
+    "raw_name": "Flex VM | Flex Virtual Machine Flex VM | VM | Virtual Machine",
+    "element_count": 18,
+    "id": "qPJX1PbwdjedQNDA36x9"
+  },
+  {
+    "index": 7,
+    "canonical_name": "Burstable VM",
+    "aliases": [
+      "Burstable Virtual Machine Burstable VM",
+      "VM",
+      "Virtual Machine"
+    ],
+    "raw_name": "Burstable VM | Burstable Virtual Machine Burstable VM | VM | Virtual Machine",
+    "element_count": 13,
+    "id": "wWMuzerniPZmgncXXSJP"
+  },
+  {
+    "index": 8,
+    "canonical_name": "Block Storage",
+    "aliases": [],
+    "raw_name": "Block Storage",
+    "element_count": 12,
+    "id": "Y0FsKSeEAUyRgUKH7Lm3"
+  },
+  {
+    "index": 9,
+    "canonical_name": "Backup Restore",
+    "aliases": [
+      "Back up Restore"
+    ],
+    "raw_name": "Backup Restore | Back up Restore",
+    "element_count": 9,
+    "id": "S6aoccGPidKFZZgjwbIt"
+  },
+  {
+    "index": 10,
+    "canonical_name": "Block Storage Cloning",
+    "aliases": [],
+    "raw_name": "Block Storage Cloning",
+    "element_count": 21,
+    "id": "n50wzwWclGb77iCdSEpA"
+  },
+  {
+    "index": 11,
+    "canonical_name": "File Storage",
+    "aliases": [],
+    "raw_name": "File Storage",
+    "element_count": 8,
+    "id": "uhZXP2VtUUegkrBoikLm"
+  },
+  {
+    "index": 12,
+    "canonical_name": "Object Storage",
+    "aliases": [],
+    "raw_name": "Object Storage",
+    "element_count": 10,
+    "id": "wrrBTnzKrJJUzj12Q2nC"
+  },
+  {
+    "index": 13,
+    "canonical_name": "Buckets",
+    "aliases": [],
+    "raw_name": "Buckets",
+    "element_count": 13,
+    "id": "31lE4zYA4yVvnlRqD4Cs"
+  },
+  {
+    "index": 14,
+    "canonical_name": "Storage Service Gateway",
+    "aliases": [
+      "Service Gateway"
+    ],
+    "raw_name": "Storage Service Gateway | Service Gateway",
+    "element_count": 5,
+    "id": "GrldvmdpEZU6fbqzJfca"
+  },
+  {
+    "index": 15,
+    "canonical_name": "Elastic Performance",
+    "aliases": [],
+    "raw_name": "Elastic Performance",
+    "element_count": 11,
+    "id": "R8JZRFKktlJxhA0eVf6r"
+  },
+  {
+    "index": 16,
+    "canonical_name": "Local Storage",
+    "aliases": [],
+    "raw_name": "Local Storage",
+    "element_count": 14,
+    "id": "7NParHabolCtoBxMj3dA"
+  },
+  {
+    "index": 17,
+    "canonical_name": "Persistent Volume",
+    "aliases": [],
+    "raw_name": "Persistent Volume",
+    "element_count": 4,
+    "id": "KKMlQaXxaspv8p678Mjd"
+  },
+  {
+    "index": 18,
+    "canonical_name": "VCN",
+    "aliases": [
+      "Virtual Cloud Network VCN",
+      "Virtual Cloud Network"
+    ],
+    "raw_name": "VCN | Virtual Cloud Network VCN | Virtual Cloud Network",
+    "element_count": 13,
+    "id": "jy6SKHo8BdBD0a8C3He0"
+  },
+  {
+    "index": 19,
+    "canonical_name": "Load Balancer",
+    "aliases": [],
+    "raw_name": "Load Balancer",
+    "element_count": 3,
+    "id": "W4Oedt9nxcJFXGmgLJPn"
+  },
+  {
+    "index": 20,
+    "canonical_name": "Flexible Load Balancer",
+    "aliases": [],
+    "raw_name": "Flexible Load Balancer",
+    "element_count": 4,
+    "id": "xS0goWPC5iXoUNqKkR0Q"
+  },
+  {
+    "index": 21,
+    "canonical_name": "DNS",
+    "aliases": [],
+    "raw_name": "DNS",
+    "element_count": 11,
+    "id": "Som7gW8AgcLXn6CVGqd1"
+  },
+  {
+    "index": 22,
+    "canonical_name": "CPE",
+    "aliases": [
+      "Customer Premises Equipment CPE"
+    ],
+    "raw_name": "CPE | Customer Premises Equipment CPE",
+    "element_count": 8,
+    "id": "h866OX709ZglGfrXDwR2"
+  },
+  {
+    "index": 23,
+    "canonical_name": "IP Pools",
+    "aliases": [
+      "IP"
+    ],
+    "raw_name": "IP Pools | IP",
+    "element_count": 19,
+    "id": "xge3ErWr8Koofy0ANAPv"
+  },
+  {
+    "index": 24,
+    "canonical_name": "CDN",
+    "aliases": [],
+    "raw_name": "CDN",
+    "element_count": 12,
+    "id": "hWOT27UhqSm5LJOKj3dU"
+  },
+  {
+    "index": 25,
+    "canonical_name": "Route Table",
+    "aliases": [],
+    "raw_name": "Route Table",
+    "element_count": 26,
+    "id": "KwEM3twtbps1F45X15k0"
+  },
+  {
+    "index": 26,
+    "canonical_name": "DRG",
+    "aliases": [
+      "Dynamic Routing Gateway DRG"
+    ],
+    "raw_name": "DRG | Dynamic Routing Gateway DRG",
+    "element_count": 6,
+    "id": "ZM4tunZ7VDbRgYkL0n3r"
+  },
+  {
+    "index": 27,
+    "canonical_name": "Internet Gateway",
+    "aliases": [],
+    "raw_name": "Internet Gateway",
+    "element_count": 8,
+    "id": "DkieycAauxnGyz4CF4ak"
+  },
+  {
+    "index": 28,
+    "canonical_name": "NAT Gateway",
+    "aliases": [
+      "NAT"
+    ],
+    "raw_name": "NAT Gateway | NAT",
+    "element_count": 5,
+    "id": "Y4OhEWXG3wWvwVWhtIKV"
+  },
+  {
+    "index": 29,
+    "canonical_name": "Remote Peering Gateway",
+    "aliases": [],
+    "raw_name": "Remote Peering Gateway",
+    "element_count": 6,
+    "id": "8vN3nHt6cJeFB6rnCNST"
+  },
+  {
+    "index": 30,
+    "canonical_name": "Database",
+    "aliases": [],
+    "raw_name": "Database",
+    "element_count": 7,
+    "id": "y9NgezQLZMCMhw3zPbNU"
+  },
+  {
+    "index": 31,
+    "canonical_name": "Database System",
+    "aliases": [],
+    "raw_name": "Database System",
+    "element_count": 6,
+    "id": "M5Zd8JO8eSzWn8oepJDI"
+  },
+  {
+    "index": 32,
+    "canonical_name": "Autonomous DB",
+    "aliases": [
+      "DB"
+    ],
+    "raw_name": "Autonomous DB | DB",
+    "element_count": 8,
+    "id": "QGsjZBfziIZUnj06FSMN"
+  },
+  {
+    "index": 33,
+    "canonical_name": "ADW",
+    "aliases": [
+      "Autonomous Data Warehouse ADW",
+      "Autonomous Data Warehouse"
+    ],
+    "raw_name": "ADW | Autonomous Data Warehouse ADW | Autonomous Data Warehouse",
+    "element_count": 18,
+    "id": "SBGWnWCjrb7NsD9C5IAI"
+  },
+  {
+    "index": 34,
+    "canonical_name": "ATP",
+    "aliases": [
+      "Autonomous Transaction Processing ATP",
+      "Autonomous Transaction Processing"
+    ],
+    "raw_name": "ATP | Autonomous Transaction Processing ATP | Autonomous Transaction Processing",
+    "element_count": 25,
+    "id": "zc2q0XKzsBblLG7ae34Y"
+  },
+  {
+    "index": 35,
+    "canonical_name": "Exadata",
+    "aliases": [],
+    "raw_name": "Exadata",
+    "element_count": 16,
+    "id": "VwDTFJ9U8e6zIOe5eJBd"
+  },
+  {
+    "index": 36,
+    "canonical_name": "Data Safe",
+    "aliases": [],
+    "raw_name": "Data Safe",
+    "element_count": 8,
+    "id": "o8UBjN0tPjEXdFFymzlz"
+  },
+  {
+    "index": 37,
+    "canonical_name": "NoSQL",
+    "aliases": [],
+    "raw_name": "NoSQL",
+    "element_count": 8,
+    "id": "O6w3BoZFQrpFU381GPv4"
+  },
+  {
+    "index": 38,
+    "canonical_name": "MySQL",
+    "aliases": [],
+    "raw_name": "MySQL",
+    "element_count": 9,
+    "id": "H32xgNvmFwEvgOX0VtO4"
+  },
+  {
+    "index": 39,
+    "canonical_name": "RAC",
+    "aliases": [],
+    "raw_name": "RAC",
+    "element_count": 22,
+    "id": "1evjqojq4tcRKcoAh6FF"
+  },
+  {
+    "index": 40,
+    "canonical_name": "Policies",
+    "aliases": [],
+    "raw_name": "Policies",
+    "element_count": 10,
+    "id": "DdJAJP6KgTDmHndYY1j6"
+  },
+  {
+    "index": 41,
+    "canonical_name": "Compartments",
+    "aliases": [],
+    "raw_name": "Compartments",
+    "element_count": 10,
+    "id": "EBCLKEhv9mpco9RAxbtC"
+  },
+  {
+    "index": 42,
+    "canonical_name": "Cloud Guard",
+    "aliases": [],
+    "raw_name": "Cloud Guard",
+    "element_count": 4,
+    "id": "psuJgBCo16cz6QFpfEoB"
+  },
+  {
+    "index": 43,
+    "canonical_name": "WAF",
+    "aliases": [],
+    "raw_name": "WAF",
+    "element_count": 11,
+    "id": "v8KXowFBcLOMcBWvC1kC"
+  },
+  {
+    "index": 44,
+    "canonical_name": "Certificates",
+    "aliases": [],
+    "raw_name": "Certificates",
+    "element_count": 16,
+    "id": "ignGT7PBF4zDNj6biAP5"
+  },
+  {
+    "index": 45,
+    "canonical_name": "Vulnerability Scanning",
+    "aliases": [],
+    "raw_name": "Vulnerability Scanning",
+    "element_count": 8,
+    "id": "aVq1DCi7dcH0BsQaBt3J"
+  },
+  {
+    "index": 46,
+    "canonical_name": "Vault",
+    "aliases": [],
+    "raw_name": "Vault",
+    "element_count": 12,
+    "id": "QuMiZYOAmkuIiErP1C2E"
+  },
+  {
+    "index": 47,
+    "canonical_name": "Bastion",
+    "aliases": [],
+    "raw_name": "Bastion",
+    "element_count": 19,
+    "id": "eT8r1gmEsSVnVbXnb57V"
+  },
+  {
+    "index": 48,
+    "canonical_name": "IAM",
+    "aliases": [
+      "IAM Identity and Access Management"
+    ],
+    "raw_name": "IAM | IAM Identity and Access Management",
+    "element_count": 9,
+    "id": "Mc6hiO7LOzC2ETjkIjnt"
+  },
+  {
+    "index": 49,
+    "canonical_name": "DDoS Protection",
+    "aliases": [],
+    "raw_name": "DDoS Protection",
+    "element_count": 7,
+    "id": "bWdePgUL1ftnJBlpwvRn"
+  },
+  {
+    "index": 50,
+    "canonical_name": "Key Management",
+    "aliases": [],
+    "raw_name": "Key Management",
+    "element_count": 5,
+    "id": "SusDKFCJwBs3PevJeiBK"
+  },
+  {
+    "index": 51,
+    "canonical_name": "BYOIP",
+    "aliases": [],
+    "raw_name": "BYOIP",
+    "element_count": 16,
+    "id": "Qk13kpGyZaAwpo3BHkoh"
+  },
+  {
+    "index": 52,
+    "canonical_name": "VTAP",
+    "aliases": [],
+    "raw_name": "VTAP",
+    "element_count": 14,
+    "id": "CYx8VOUruepTBH2qgSub"
+  },
+  {
+    "index": 53,
+    "canonical_name": "Customer Data Center",
+    "aliases": [],
+    "raw_name": "Customer Data Center",
+    "element_count": 18,
+    "id": "k24VYyXHD0LNf5M9DQ77"
+  },
+  {
+    "index": 54,
+    "canonical_name": "Backbone",
+    "aliases": [],
+    "raw_name": "Backbone",
+    "element_count": 5,
+    "id": "Dx9YrN6Tj32EN4IlXBN7"
+  },
+  {
+    "index": 55,
+    "canonical_name": "Network Switch",
+    "aliases": [],
+    "raw_name": "Network Switch",
+    "element_count": 7,
+    "id": "d0R0ibgwjPTeXYK8S0WL"
+  },
+  {
+    "index": 56,
+    "canonical_name": "Service Gateway",
+    "aliases": [],
+    "raw_name": "Service Gateway",
+    "element_count": 7,
+    "id": "WuLxr9uWHZa6Jcgja9F9"
+  },
+  {
+    "index": 57,
+    "canonical_name": "ADB-D",
+    "aliases": [
+      "ADB D",
+      "ADB",
+      "Autonomous Database"
+    ],
+    "raw_name": "ADB-D | ADB D | ADB | Autonomous Database",
+    "element_count": 19,
+    "id": "eCTXIjBDbx5O5q6JOqAA"
+  },
+  {
+    "index": 58,
+    "canonical_name": "ADW-D",
+    "aliases": [
+      "ADW D",
+      "ADW",
+      "Autonomous Data Warehouse"
+    ],
+    "raw_name": "ADW-D | ADW D | ADW | Autonomous Data Warehouse",
+    "element_count": 19,
+    "id": "cVLMix1NNGmcuzfF3mVX"
+  },
+  {
+    "index": 59,
+    "canonical_name": "ATP-D",
+    "aliases": [
+      "ATP D",
+      "ATP",
+      "Autonomous Transaction Processing"
+    ],
+    "raw_name": "ATP-D | ATP D | ATP | Autonomous Transaction Processing",
+    "element_count": 29,
+    "id": "5q9EOmv3n9xXYxKWijwE"
+  },
+  {
+    "index": 60,
+    "canonical_name": "Exadata C@C",
+    "aliases": [],
+    "raw_name": "Exadata C@C",
+    "element_count": 31,
+    "id": "j13Mtfbw9HP9asXQp0Zn"
+  },
+  {
+    "index": 61,
+    "canonical_name": "OpenSearch",
+    "aliases": [],
+    "raw_name": "OpenSearch",
+    "element_count": 12,
+    "id": "qIAxCMg83GW5pRQmxrCr"
+  },
+  {
+    "index": 62,
+    "canonical_name": "GoldenGate On-Premises",
+    "aliases": [
+      "GoldenGate On Premises"
+    ],
+    "raw_name": "GoldenGate On-Premises | GoldenGate On Premises",
+    "element_count": 9,
+    "id": "cpyX3EXj8hvztVuq16L2"
+  },
+  {
+    "index": 63,
+    "canonical_name": "GoldenGate",
+    "aliases": [],
+    "raw_name": "GoldenGate",
+    "element_count": 11,
+    "id": "VnOQmIOBHbs77dnAJnoD"
+  },
+  {
+    "index": 64,
+    "canonical_name": "GoldenGate Director",
+    "aliases": [],
+    "raw_name": "GoldenGate Director",
+    "element_count": 21,
+    "id": "s5266WVuR7TyPEphmbnr"
+  },
+  {
+    "index": 65,
+    "canonical_name": "GoldenGate Studio",
+    "aliases": [],
+    "raw_name": "GoldenGate Studio",
+    "element_count": 23,
+    "id": "n3HG9jqew0WsLe7nMJV4"
+  },
+  {
+    "index": 66,
+    "canonical_name": "GoldenGate Application Adapter",
+    "aliases": [],
+    "raw_name": "GoldenGate Application Adapter",
+    "element_count": 11,
+    "id": "T39KR9nx3NdpeUC7k1eG"
+  },
+  {
+    "index": 67,
+    "canonical_name": "GoldenGate Plug-in",
+    "aliases": [
+      "GoldenGate Plug in"
+    ],
+    "raw_name": "GoldenGate Plug-in | GoldenGate Plug in",
+    "element_count": 25,
+    "id": "1cbukkKB6FQt5uY3WEbX"
+  },
+  {
+    "index": 68,
+    "canonical_name": "GoldenGate Stream Analytics",
+    "aliases": [],
+    "raw_name": "GoldenGate Stream Analytics",
+    "element_count": 15,
+    "id": "YBWb026xy2QR8rynFPzN"
+  },
+  {
+    "index": 69,
+    "canonical_name": "GoldenGate Veridata",
+    "aliases": [],
+    "raw_name": "GoldenGate Veridata",
+    "element_count": 13,
+    "id": "TzmU3I5AVvE8tUuRXnHL"
+  },
+  {
+    "index": 70,
+    "canonical_name": "GoldenGate Monitor",
+    "aliases": [],
+    "raw_name": "GoldenGate Monitor",
+    "element_count": 13,
+    "id": "cn6nANf2L8vm0XkvuU3G"
+  },
+  {
+    "index": 71,
+    "canonical_name": "GoldenGate HP Non-Stop Guardian",
+    "aliases": [
+      "GoldenGate HP Non Stop Guardian",
+      "HP"
+    ],
+    "raw_name": "GoldenGate HP Non-Stop Guardian | GoldenGate HP Non Stop Guardian | HP",
+    "element_count": 16,
+    "id": "xtmfCUbtyBp60mGudpkt"
+  },
+  {
+    "index": 72,
+    "canonical_name": "Analytics and AI",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Analytics and AI | AI",
+    "element_count": 10,
+    "id": "pvJHYsIvmIPrN4vcS0Og"
+  },
+  {
+    "index": 73,
+    "canonical_name": "Big Data",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Big Data | AI",
+    "element_count": 14,
+    "id": "Y70u53d9yIVASrZxylsX"
+  },
+  {
+    "index": 74,
+    "canonical_name": "Data Catalog",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Data Catalog | AI",
+    "element_count": 21,
+    "id": "tR52ArsEpZziB9Sl2Axi"
+  },
+  {
+    "index": 75,
+    "canonical_name": "Data Integration",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Data Integration | AI",
+    "element_count": 12,
+    "id": "NElEIjMiDcbm6c1ldYrp"
+  },
+  {
+    "index": 76,
+    "canonical_name": "Data Flow",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Data Flow | AI",
+    "element_count": 6,
+    "id": "5nB7uzBE9x8tiem9yYMG"
+  },
+  {
+    "index": 77,
+    "canonical_name": "Streaming",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Streaming | AI",
+    "element_count": 28,
+    "id": "CdO1aoRDooYyu1ktSjvX"
+  },
+  {
+    "index": 78,
+    "canonical_name": "Service Connector Hub",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Service Connector Hub | AI",
+    "element_count": 9,
+    "id": "oKMi1ERPr4kkHZFri4Lv"
+  },
+  {
+    "index": 79,
+    "canonical_name": "Machine Learning",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Machine Learning | AI",
+    "element_count": 11,
+    "id": "qc4x6sXpKaAwD23Gz1jD"
+  },
+  {
+    "index": 80,
+    "canonical_name": "Data Science",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Data Science | AI",
+    "element_count": 12,
+    "id": "DHlcH1YXq8OPaJBXJcNE"
+  },
+  {
+    "index": 81,
+    "canonical_name": "Artificial Intelligence",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Artificial Intelligence | AI",
+    "element_count": 16,
+    "id": "LDacysqc1TTeqGMJxkfm"
+  },
+  {
+    "index": 82,
+    "canonical_name": "Digital Assistant",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Digital Assistant | AI",
+    "element_count": 11,
+    "id": "LTsMiVHpWjwPve3BjjjN"
+  },
+  {
+    "index": 83,
+    "canonical_name": "Essbase",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Essbase | AI",
+    "element_count": 25,
+    "id": "5AahZ2dhQkPiaMN5WZcu"
+  },
+  {
+    "index": 84,
+    "canonical_name": "Message Listener",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Message Listener | AI",
+    "element_count": 10,
+    "id": "0JyKRHl182O277kvF7wG"
+  },
+  {
+    "index": 85,
+    "canonical_name": "Message Producer",
+    "aliases": [
+      "AI"
+    ],
+    "raw_name": "Message Producer | AI",
+    "element_count": 10,
+    "id": "2XXuRez1Dv6ZWB00MKuC"
+  },
+  {
+    "index": 86,
+    "canonical_name": "Container Engine for Kubernetes",
+    "aliases": [],
+    "raw_name": "Container Engine for Kubernetes",
+    "element_count": 14,
+    "id": "3jVXtsyd3nvizpwhiFcM"
+  },
+  {
+    "index": 87,
+    "canonical_name": "Container Registry",
+    "aliases": [],
+    "raw_name": "Container Registry",
+    "element_count": 13,
+    "id": "0ZqLiT8s5C1SwZ3iusvd"
+  },
+  {
+    "index": 88,
+    "canonical_name": "Service Mesh",
+    "aliases": [],
+    "raw_name": "Service Mesh",
+    "element_count": 19,
+    "id": "7z2FDAQ6QLxZls2QKpx5"
+  },
+  {
+    "index": 89,
+    "canonical_name": "APEX",
+    "aliases": [],
+    "raw_name": "APEX",
+    "element_count": 9,
+    "id": "o8c0u3Vu91nPtqCaCn35"
+  },
+  {
+    "index": 90,
+    "canonical_name": "Private Endpoint IP",
+    "aliases": [
+      "IP"
+    ],
+    "raw_name": "Private Endpoint IP | IP",
+    "element_count": 7,
+    "id": "5DEt0U3ObqezkEC8aEAV"
+  },
+  {
+    "index": 91,
+    "canonical_name": "API Gateway",
+    "aliases": [
+      "API"
+    ],
+    "raw_name": "API Gateway | API",
+    "element_count": 7,
+    "id": "98YzCfbeqVybKf0cXtrl"
+  },
+  {
+    "index": 92,
+    "canonical_name": "API Service",
+    "aliases": [
+      "API"
+    ],
+    "raw_name": "API Service | API",
+    "element_count": 5,
+    "id": "TLUyGolfubYCE1YXCDEy"
+  },
+  {
+    "index": 93,
+    "canonical_name": "Integrations",
+    "aliases": [],
+    "raw_name": "Integrations",
+    "element_count": 9,
+    "id": "kbtfC3KeBoL0uj5s7FFl"
+  },
+  {
+    "index": 94,
+    "canonical_name": "Notifications",
+    "aliases": [],
+    "raw_name": "Notifications",
+    "element_count": 31,
+    "id": "benTRAYUflkV7LH85dUq"
+  },
+  {
+    "index": 95,
+    "canonical_name": "Email Delivery",
+    "aliases": [],
+    "raw_name": "Email Delivery",
+    "element_count": 11,
+    "id": "AB9ktxARZC7zJzjAfGnX"
+  },
+  {
+    "index": 96,
+    "canonical_name": "Visual Builder",
+    "aliases": [],
+    "raw_name": "Visual Builder",
+    "element_count": 9,
+    "id": "p6zx0NZnnLRvYSpAIQnJ"
+  },
+  {
+    "index": 97,
+    "canonical_name": "DevOps",
+    "aliases": [],
+    "raw_name": "DevOps",
+    "element_count": 7,
+    "id": "bL45oxSAhryLbuLin75F"
+  },
+  {
+    "index": 98,
+    "canonical_name": "Resource Manager",
+    "aliases": [],
+    "raw_name": "Resource Manager",
+    "element_count": 17,
+    "id": "UjX1m0VyWcPGQVznDKf6"
+  },
+  {
+    "index": 99,
+    "canonical_name": "Content Management",
+    "aliases": [],
+    "raw_name": "Content Management",
+    "element_count": 7,
+    "id": "V7YXfDMpYALsELx3OOkW"
+  },
+  {
+    "index": 100,
+    "canonical_name": "Jet",
+    "aliases": [],
+    "raw_name": "Jet",
+    "element_count": 7,
+    "id": "F6tPutTBqtQTbCw5tjIP"
+  },
+  {
+    "index": 101,
+    "canonical_name": "User",
+    "aliases": [],
+    "raw_name": "User",
+    "element_count": 5,
+    "id": "FU0GXGKeVAzPGPDy5Jrr"
+  },
+  {
+    "index": 102,
+    "canonical_name": "User Group",
+    "aliases": [],
+    "raw_name": "User Group",
+    "element_count": 12,
+    "id": "yc7wkbAAFfdvsUq9H42x"
+  },
+  {
+    "index": 103,
+    "canonical_name": "Maximum Security Zone",
+    "aliases": [],
+    "raw_name": "Maximum Security Zone",
+    "element_count": 25,
+    "id": "uXZYc6Ql7fYRvjbtgWvP"
+  },
+  {
+    "index": 104,
+    "canonical_name": "Identity",
+    "aliases": [],
+    "raw_name": "Identity",
+    "element_count": 7,
+    "id": "9bEvYoULAsLcYTJ3tRZ1"
+  },
+  {
+    "index": 105,
+    "canonical_name": "Threat Intelligence",
+    "aliases": [],
+    "raw_name": "Threat Intelligence",
+    "element_count": 13,
+    "id": "Gq11R8QDm4SQGIwdTBjA"
+  },
+  {
+    "index": 106,
+    "canonical_name": "Firewall",
+    "aliases": [],
+    "raw_name": "Firewall",
+    "element_count": 10,
+    "id": "pV1U17ZJcPDrgBtMsD91"
+  },
+  {
+    "index": 107,
+    "canonical_name": "Security Lists",
+    "aliases": [],
+    "raw_name": "Security Lists",
+    "element_count": 9,
+    "id": "eWM8f21Zh1JE8RCTOyf7"
+  },
+  {
+    "index": 108,
+    "canonical_name": "Key Vault",
+    "aliases": [],
+    "raw_name": "Key Vault",
+    "element_count": 11,
+    "id": "SGJJtScKYRtdPV1LN3Rl"
+  },
+  {
+    "index": 109,
+    "canonical_name": "Encryption",
+    "aliases": [],
+    "raw_name": "Encryption",
+    "element_count": 5,
+    "id": "xsngZFQLEdPiN1IwYjn2"
+  },
+  {
+    "index": 110,
+    "canonical_name": "Threat Defense",
+    "aliases": [],
+    "raw_name": "Threat Defense",
+    "element_count": 15,
+    "id": "yhwqXLZB45ejRE28xxA0"
+  },
+  {
+    "index": 111,
+    "canonical_name": "NSG",
+    "aliases": [
+      "Network Security Group"
+    ],
+    "raw_name": "NSG | Network Security Group",
+    "element_count": 7,
+    "id": "8PRyJoLFRX3GQ0WwVTOz"
+  },
+  {
+    "index": 112,
+    "canonical_name": "Active Directory",
+    "aliases": [],
+    "raw_name": "Active Directory",
+    "element_count": 11,
+    "id": "aq0GlxJV3pe3qSWmU6pG"
+  },
+  {
+    "index": 113,
+    "canonical_name": "Application Performance Management",
+    "aliases": [],
+    "raw_name": "Application Performance Management",
+    "element_count": 7,
+    "id": "HWuFLA998BWocgPSrG6T"
+  },
+  {
+    "index": 114,
+    "canonical_name": "Logging",
+    "aliases": [],
+    "raw_name": "Logging",
+    "element_count": 26,
+    "id": "D9KacQogwpmugoU16OnZ"
+  },
+  {
+    "index": 115,
+    "canonical_name": "Search",
+    "aliases": [],
+    "raw_name": "Search",
+    "element_count": 14,
+    "id": "w3zv1VEnEoaRfI7xQfka"
+  },
+  {
+    "index": 116,
+    "canonical_name": "Auditing",
+    "aliases": [],
+    "raw_name": "Auditing",
+    "element_count": 8,
+    "id": "JZCc4ybV5kSy7mlQHlyx"
+  },
+  {
+    "index": 117,
+    "canonical_name": "Monitoring",
+    "aliases": [],
+    "raw_name": "Monitoring",
+    "element_count": 10,
+    "id": "8EahSzGABJh7F1jKtYFU"
+  },
+  {
+    "index": 118,
+    "canonical_name": "Alarms",
+    "aliases": [],
+    "raw_name": "Alarms",
+    "element_count": 12,
+    "id": "lqLbvHvI05taQqMmzdeA"
+  },
+  {
+    "index": 119,
+    "canonical_name": "Health Checks",
+    "aliases": [],
+    "raw_name": "Health Checks",
+    "element_count": 12,
+    "id": "cOqEfOlYWAH1MEm3YV4d"
+  },
+  {
+    "index": 120,
+    "canonical_name": "Logging Analytics",
+    "aliases": [],
+    "raw_name": "Logging Analytics",
+    "element_count": 12,
+    "id": "BJnwgbClfiRQxW5ya0C2"
+  },
+  {
+    "index": 121,
+    "canonical_name": "Events",
+    "aliases": [],
+    "raw_name": "Events",
+    "element_count": 7,
+    "id": "MxZQwbcua63z4Zsz5f7c"
+  },
+  {
+    "index": 122,
+    "canonical_name": "Operations Insights",
+    "aliases": [],
+    "raw_name": "Operations Insights",
+    "element_count": 4,
+    "id": "x7uB28whdSd5764YS9dT"
+  },
+  {
+    "index": 123,
+    "canonical_name": "VCN Flow Logs",
+    "aliases": [
+      "VCN",
+      "Virtual Cloud Network"
+    ],
+    "raw_name": "VCN Flow Logs | VCN | Virtual Cloud Network",
+    "element_count": 16,
+    "id": "xTVJlZiaTOVDFaE9cJHx"
+  },
+  {
+    "index": 124,
+    "canonical_name": "Queuing",
+    "aliases": [],
+    "raw_name": "Queuing",
+    "element_count": 15,
+    "id": "yGL6MLolHMeydQgTDdFG"
+  },
+  {
+    "index": 125,
+    "canonical_name": "Workflow",
+    "aliases": [],
+    "raw_name": "Workflow",
+    "element_count": 6,
+    "id": "fDVGLeffHy7YISXSfByP"
+  },
+  {
+    "index": 126,
+    "canonical_name": "Roving Edge Infrastructure",
+    "aliases": [],
+    "raw_name": "Roving Edge Infrastructure",
+    "element_count": 11,
+    "id": "kGZRNVd2lKNIluWvTlAK"
+  },
+  {
+    "index": 127,
+    "canonical_name": "Dedicated Region",
+    "aliases": [],
+    "raw_name": "Dedicated Region",
+    "element_count": 19,
+    "id": "PczPFQ0H2jwgzJ1TSlFZ"
+  },
+  {
+    "index": 128,
+    "canonical_name": "Cloud Advisor",
+    "aliases": [],
+    "raw_name": "Cloud Advisor",
+    "element_count": 16,
+    "id": "uAxFUdihQ1X2J6a9sHGp"
+  },
+  {
+    "index": 129,
+    "canonical_name": "Organization",
+    "aliases": [],
+    "raw_name": "Organization",
+    "element_count": 11,
+    "id": "bOx9iwo3k34l6efOtgHA"
+  },
+  {
+    "index": 130,
+    "canonical_name": "License Manager",
+    "aliases": [],
+    "raw_name": "License Manager",
+    "element_count": 13,
+    "id": "gl7Jxl7yiTxILYe0eaem"
+  },
+  {
+    "index": 131,
+    "canonical_name": "Oracle Cloud Identifier",
+    "aliases": [],
+    "raw_name": "Oracle Cloud Identifier",
+    "element_count": 7,
+    "id": "3hYw8A2VamgDtvgOji44"
+  },
+  {
+    "index": 132,
+    "canonical_name": "Tagging",
+    "aliases": [],
+    "raw_name": "Tagging",
+    "element_count": 7,
+    "id": "B7mUqv8EynRzFoOMtMFM"
+  },
+  {
+    "index": 133,
+    "canonical_name": "Marketplace",
+    "aliases": [],
+    "raw_name": "Marketplace",
+    "element_count": 6,
+    "id": "dCP0jZM0ASHRaWpAfgyi"
+  },
+  {
+    "index": 134,
+    "canonical_name": "HCM",
+    "aliases": [],
+    "raw_name": "HCM",
+    "element_count": 11,
+    "id": "pTmBDJ33YLLl0kqLMXHf"
+  },
+  {
+    "index": 135,
+    "canonical_name": "ERP",
+    "aliases": [],
+    "raw_name": "ERP",
+    "element_count": 8,
+    "id": "YV9IU4cALhWiZuTQyxy0"
+  },
+  {
+    "index": 136,
+    "canonical_name": "E-Business Suite",
+    "aliases": [
+      "E Business Suite"
+    ],
+    "raw_name": "E-Business Suite | E Business Suite",
+    "element_count": 26,
+    "id": "lRFOeK04kIsYlyOW4RCn"
+  },
+  {
+    "index": 137,
+    "canonical_name": "Supply Chain Planning",
+    "aliases": [],
+    "raw_name": "Supply Chain Planning",
+    "element_count": 13,
+    "id": "bp4UbXaGdKlorlyOSidu"
+  },
+  {
+    "index": 138,
+    "canonical_name": "Innovation Management",
+    "aliases": [],
+    "raw_name": "Innovation Management",
+    "element_count": 11,
+    "id": "MoGCJA7xMyzpsMbNSyHU"
+  },
+  {
+    "index": 139,
+    "canonical_name": "Project Financial Management",
+    "aliases": [],
+    "raw_name": "Project Financial Management",
+    "element_count": 9,
+    "id": "BPhdfYxwdSQM8pCsYuBq"
+  },
+  {
+    "index": 140,
+    "canonical_name": "Inventory Management",
+    "aliases": [],
+    "raw_name": "Inventory Management",
+    "element_count": 15,
+    "id": "PF3aCKJ9Q6I6oriN2KRx"
+  },
+  {
+    "index": 141,
+    "canonical_name": "Product Master Data Management",
+    "aliases": [],
+    "raw_name": "Product Master Data Management",
+    "element_count": 9,
+    "id": "Autrylz8bBRRUj4qb9SB"
+  },
+  {
+    "index": 142,
+    "canonical_name": "BI Cloud Connector",
+    "aliases": [
+      "BI"
+    ],
+    "raw_name": "BI Cloud Connector | BI",
+    "element_count": 11,
+    "id": "eJau15WwgtgOZIsAgI1R"
+  },
+  {
+    "index": 143,
+    "canonical_name": "OCO Subnet",
+    "aliases": [
+      "OCO"
+    ],
+    "raw_name": "OCO Subnet | OCO",
+    "element_count": 9,
+    "id": "YAQkRElyz9GV8PV7ld8N"
+  },
+  {
+    "index": 144,
+    "canonical_name": "Engagement",
+    "aliases": [],
+    "raw_name": "Engagement",
+    "element_count": 27,
+    "id": "QpZCq5oXJKWNc9bQRUJa"
+  },
+  {
+    "index": 145,
+    "canonical_name": "Order Management",
+    "aliases": [],
+    "raw_name": "Order Management",
+    "element_count": 10,
+    "id": "YRTa46zFYFDMDrGCkPmT"
+  },
+  {
+    "index": 146,
+    "canonical_name": "Procurement",
+    "aliases": [],
+    "raw_name": "Procurement",
+    "element_count": 14,
+    "id": "YBlnLdxlcWow5m4xJMP7"
+  },
+  {
+    "index": 147,
+    "canonical_name": "CPQ",
+    "aliases": [],
+    "raw_name": "CPQ",
+    "element_count": 9,
+    "id": "VTSQEzNrLRIYq1bwOMiN"
+  },
+  {
+    "index": 148,
+    "canonical_name": "Manufacturing",
+    "aliases": [],
+    "raw_name": "Manufacturing",
+    "element_count": 11,
+    "id": "ad4kmih9viJG9aoHmTXT"
+  },
+  {
+    "index": 149,
+    "canonical_name": "Project Management",
+    "aliases": [],
+    "raw_name": "Project Management",
+    "element_count": 5,
+    "id": "QXD7qBTUHb3UoT3xnbes"
+  },
+  {
+    "index": 150,
+    "canonical_name": "Financials",
+    "aliases": [],
+    "raw_name": "Financials",
+    "element_count": 16,
+    "id": "xn5NhN9eyls2EmEhCTXB"
+  },
+  {
+    "index": 151,
+    "canonical_name": "Healthcare",
+    "aliases": [],
+    "raw_name": "Healthcare",
+    "element_count": 6,
+    "id": "9DSZ72CyDDr4y48ZtG4U"
+  },
+  {
+    "index": 152,
+    "canonical_name": "EPM",
+    "aliases": [],
+    "raw_name": "EPM",
+    "element_count": 23,
+    "id": "O7fA6NS4svnd89yYoRj5"
+  },
+  {
+    "index": 153,
+    "canonical_name": "Fusion",
+    "aliases": [],
+    "raw_name": "Fusion",
+    "element_count": 19,
+    "id": "J2DIunvojQEP6JB1dicY"
+  },
+  {
+    "index": 154,
+    "canonical_name": "Cloud",
+    "aliases": [],
+    "raw_name": "Cloud",
+    "element_count": 3,
+    "id": "mfCBkvU02kCZ6VEA5qFJ"
+  },
+  {
+    "index": 155,
+    "canonical_name": "Database Management",
+    "aliases": [],
+    "raw_name": "Database Management",
+    "element_count": 20,
+    "id": "XeYKtSqCBBZNxdEh3drw"
+  },
+  {
+    "index": 156,
+    "canonical_name": "Media Flow",
+    "aliases": [],
+    "raw_name": "Media Flow",
+    "element_count": 18,
+    "id": "BdOOlglTHwYtRLnXjkrs"
+  },
+  {
+    "index": 157,
+    "canonical_name": "Digital Media",
+    "aliases": [],
+    "raw_name": "Digital Media",
+    "element_count": 9,
+    "id": "aqgwcnZSICK6uhy0l8sC"
+  },
+  {
+    "index": 158,
+    "canonical_name": "Media Streams",
+    "aliases": [],
+    "raw_name": "Media Streams",
+    "element_count": 15,
+    "id": "IlYZlwIk9ke0OsqCmuCF"
+  },
+  {
+    "index": 159,
+    "canonical_name": "Container",
+    "aliases": [],
+    "raw_name": "Container",
+    "element_count": 30,
+    "id": "7rd9NPu2VKPQblMKpQ8d"
+  }
+]
