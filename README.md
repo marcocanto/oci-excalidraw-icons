@@ -18,4 +18,4 @@ The source OCI icon assets for Powerpoint, draw.io, and Visio can be found here:
 - https://docs.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm
 
 ## Icon Catalog
-![OCI Icons Catalog](OCI Icons Catalog.png)
+![OCI Icons Catalog](OCI%20Icons%20Catalog.png)
