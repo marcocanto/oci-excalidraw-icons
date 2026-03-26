@@ -2,12 +2,6 @@
 
 Oracle Cloud Infrastructure (OCI) icon library for Excalidraw
 
-## Repository Layout
-
-- `oci-excalidraw-icons.excalidrawlib`: master Excalidraw library file to import.
-- `OCI Icons Catalog.png`: visual preview of the full icon set.
-- `icons/`: individual icon files (`.excalidraw`) used to build/maintain the library.
-
 ## Install In Excalidraw
 
 1. Open Excalidraw.
@@ -22,3 +16,6 @@ After import, icons are searchable in your Library and can be dropped into diagr
 The source OCI icon assets for Powerpoint, draw.io, and Visio can be found here:
 
 - https://docs.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm
+
+## Icon Catalog
+![OCI Icons Catalog](OCI Icons Catalog.png)
