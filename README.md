@@ -1,4 +1,4 @@
-# oci-excalidraw-icons
+![OCI Icons for Excalidraw preview](icons/preview.png)
 
 Oracle Cloud Infrastructure (OCI) icon library for Excalidraw
 
